@@ -85,19 +85,19 @@ footer {
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
   header {
-    background-color:#061539 ;
+    background-color: ;
   }
 
   #column-1 {
-    background-color:#162955 ;
+    background-color:#061539 ;
   }
 
   #column-2 {
-    background-color:#2e4272 ;
+    background-color:#162955 ;
   }
 
   #column-3 {
-    background-color: ;
+    background-color:#2e4272 ;
   }
 
   footer {
